@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "pt-PT"
+locale                   : "us-US"
 site_theme               : "default"
 title                    : "André Mourão"
 title_separator          : "-"
